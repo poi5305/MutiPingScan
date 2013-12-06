@@ -1,2 +1,4 @@
 if you want to ping 8.8.8.1 ~ 8.8.8.10
 usage: php ./MutiPingScan.php 8.8.8 1 10
+
+(Your computer must support pcntl_fork)
